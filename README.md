@@ -1,18 +1,19 @@
 # Development-Standards
 
 ### C++
+------
 
 #### OS
-------
+
 Ubuntu 16.04
 
 #### Coding Style
-------
+
 We follow [Google coding style](https://google.github.io/styleguide/cppguide.html), which can be checked by static code checker [cpplint](https://github.com/cpplint/cpplint).
 
 
 #### Test
-------
+
 * unit test
 
 We use [gtest](https://github.com/google/googletest) assertions for unit test.
