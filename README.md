@@ -1,7 +1,6 @@
 # Development-Standards
 
 ### C++
-***
 
 **OS**
 ------
