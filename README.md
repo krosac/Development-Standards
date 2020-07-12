@@ -20,7 +20,7 @@ We use [gtest](https://github.com/google/googletest) assertions for unit test.
 
 * coverage test
 
-[gcov](https://gcc.gnu.org/onlinedocs/gcc/Gcov.html) anaylze source code and report s code coverage statement by statement.
+[gcov](https://gcc.gnu.org/onlinedocs/gcc/Gcov.html) analyzes source code and reports code coverage statement by statement.
 It comes as a standard utility of GCC suite.
 
 * functional test
