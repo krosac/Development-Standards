@@ -2,26 +2,26 @@
 
 ### C++
 
-##### OS
+#### OS
 ------
 Ubuntu 16.04
 
-##### Coding Style
+#### Coding Style
 ------
-[Google coding style](https://google.github.io/styleguide/cppguide.html)
-[cpplint](https://github.com/cpplint/cpplint)
+We follow [Google coding style](https://google.github.io/styleguide/cppguide.html), which can be checked by static code checker [cpplint](https://github.com/cpplint/cpplint).
 
 
-##### Test
+#### Test
 ------
 * unit test
 
-[gtest](https://github.com/google/googletest)
+We use [gtest](https://github.com/google/googletest) assertions for unit test.
 
 * coverage test
 
-[gcov](https://gcc.gnu.org/onlinedocs/gcc/Gcov.html)
+[gcov](https://gcc.gnu.org/onlinedocs/gcc/Gcov.html) anaylze source code and report s code coverage statement by statement.
+It comes as a standard utility of GCC suite.
 
 * functional test
 
-[pytest](https://docs.pytest.org/en/stable/)
+We use [pytest](https://docs.pytest.org/en/stable/) to run complex functional tests (i.e. end-to-end compiler test), where custom test suite can be conveniently selected.
