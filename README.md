@@ -1,7 +1,8 @@
 # Development-Standards
 
 ### C++
-======
+***
+
 **OS**
 ------
 Ubuntu 16.04
