@@ -1,18 +1,19 @@
 # Development-Standards
 
 ### C++
+======
 **OS**
-
+------
 Ubuntu 16.04
 
-
 **Coding Style**
-
+------
 [Google coding style](https://google.github.io/styleguide/cppguide.html)
 [cpplint](https://github.com/cpplint/cpplint)
 
 
 **Testing**
+------
 * unit test
 
 [gtest](https://github.com/google/googletest)
