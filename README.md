@@ -27,6 +27,14 @@ It comes as a standard utility of GCC suite.
 
 We use [pytest](https://docs.pytest.org/en/stable/) to run complex functional tests (i.e. end-to-end compiler test), where custom test suite can be conveniently selected.
 
+#### Build
+
+* Makefile
+We recommend [CMake](https://cmake.org/)(minimal 3.2), which is cross-platform and compiler-independent, to manage the building process. 
+
+* IDE
+Free: [Visual Studio Code](https://code.visualstudio.com/)
+Need license: [CLion](https://www.jetbrains.com/clion/) on Linux/Unix, [Microsoft Visual Studio 2019](https://visualstudio.microsoft.com/) on Windows
 
 ### Python
 ------
