@@ -26,3 +26,9 @@ It comes as a standard utility of GCC suite.
 * functional test
 
 We use [pytest](https://docs.pytest.org/en/stable/) to run complex functional tests (i.e. end-to-end compiler test), where custom test suite can be conveniently selected.
+
+
+### Python
+------
+
+(to be filled)
