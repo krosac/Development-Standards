@@ -30,10 +30,13 @@ We use [pytest](https://docs.pytest.org/en/stable/) to run complex functional te
 #### Build
 
 * Makefile
+
 We recommend [CMake](https://cmake.org/)(minimal 3.2), which is cross-platform and compiler-independent, to manage the building process. 
 
 * IDE
+
 Free: [Visual Studio Code](https://code.visualstudio.com/)
+
 Need license: [CLion](https://www.jetbrains.com/clion/) on Linux/Unix, [Microsoft Visual Studio 2019](https://visualstudio.microsoft.com/) on Windows
 
 ### Python
