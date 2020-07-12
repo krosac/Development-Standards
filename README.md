@@ -33,7 +33,7 @@ We use [pytest](https://docs.pytest.org/en/stable/) to run complex functional te
 
 We recommend [CMake](https://cmake.org/)(minimal 3.2), which is cross-platform and compiler-independent, to manage the building process. 
 
-* IDE
+* IDE (needs further discussion)
 
 Free: [Visual Studio Code](https://code.visualstudio.com/)
 
